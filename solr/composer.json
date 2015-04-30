@@ -1,0 +1,7 @@
+{
+	"name": "inv/solr",
+	"description": "Solr Client",
+	"autoload": {
+		"psr-0": {"Solr": "lib/"}
+	}
+}
